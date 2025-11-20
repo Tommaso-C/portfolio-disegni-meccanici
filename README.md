@@ -1,6 +1,6 @@
 # Portfolio Disegni Meccanici
 
-Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Inventor**.
+Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Inventor*.
 ---
 
 ## 📋 Contenuto
@@ -35,6 +35,17 @@ Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Invent
 - **Viste:** 
 
 ![Render 3D](./Render_Disegno_Numero_8.png)
+
+
+---
+
+## Assemblato 1: Supporto per rullo a nastro
+- **File:** [Supporto_per_rullo_a_nastro.pdf](./Supporto_per_rullo_a_nastro.pdf)
+- **Viste:** 
+
+Render 3D <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro.png/ width="500"/>
+Vista Frontale:<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro:frontale.png/ width="400"/>
+Vista Alto <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro_alto.png/ width="400"/>
 
 ---
 
