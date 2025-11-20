@@ -43,9 +43,11 @@ Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Invent
 - **File:** [Supporto_per_rullo_a_nastro.pdf](./Supporto_per_rullo_a_nastro.pdf)
 - **Viste:** 
 
-Render 3D <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro.png/ width="500"/>
-Vista Frontale:<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro:frontale.png/ width="400"/>
-Vista Alto <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro_alto.png/ width="400"/>
+*Render 3D:* <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro.png/ width="500"/>
+
+*Vista Frontale:*<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro_frontale.png/ width="400"/>
+
+*Vista Alto:* <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_Supporto_per_rullo_a_nastro_alto.png/ width="400"/>
 
 ---
 
