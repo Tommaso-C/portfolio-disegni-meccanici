@@ -5,42 +5,28 @@ Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Invent
 
 ## 📋 Contenuto
 
-### Progetto 1: Staffa supporto per albero
-- **File:** [Disegno_Numero_3.pdf](./Disegno_Numero_3.pdf) 
+
+### Progetto 1: Riduttore a vite senza fine
+- **File:** [Disegno_Numero_17.pdf](./Disegno_Numero_17.pdf)
 - **Viste:** 
 
-<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_3.png/ width="350"/>
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_17.png/ width="350"/>
 
 
 ---
 
-### Progetto 2: Supporto con cuscinetto
-- **File:** [Disegno_Numero_5.pdf](./Disegno_Numero_5.pdf)
+
+### Progetto 2: Accoppiamento scanalato
+- **File:** [Disegno_Numero_13.pdf](./Disegno_Numero_13.pdf)
 - **Viste:** 
 
-<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_5.png/ width="350"/>
-
----
-
-### Progetto 3: Bilanciere
-- **File:** [Disegno_Numero_7.pdf](./Disegno_Numero_7.pdf)
-- **Viste:** 
-
-<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_7.png/ width="350"/>
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_13.png/ width="350"/>
 
 
 ---
 
-### Progetto 4: Componente di supporto
-- **File:** [Disegno_Numero_8.pdf](./Disegno_Numero_8.pdf)
-- **Viste:** 
 
-<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_8.png/ width="350"/>
-
-
----
-
-### Progetto 5: Flangia di accoppiamento
+### Progetto 3: Flangia di accoppiamento
 - **File:** [Disegno_Numero_12.pdf](./Disegno_Numero_12.pdf)
 - **Viste:** 
 
@@ -49,14 +35,43 @@ Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Invent
 
 ---
 
-### Progetto 6: Accoppiamento scanalato
-- **File:** [Disegno_Numero_13.pdf](./Disegno_Numero_13.pdf)
+### Progetto 4: Staffa supporto per albero
+- **File:** [Disegno_Numero_3.pdf](./Disegno_Numero_3.pdf) 
 - **Viste:** 
 
-<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_13.png/ width="350"/>
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_3.png/ width="350"/>
 
 
 ---
+
+### Progetto 5: Supporto con cuscinetto
+- **File:** [Disegno_Numero_5.pdf](./Disegno_Numero_5.pdf)
+- **Viste:** 
+
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_5.png/ width="350"/>
+
+---
+
+### Progetto 6: Bilanciere
+- **File:** [Disegno_Numero_7.pdf](./Disegno_Numero_7.pdf)
+- **Viste:** 
+
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_7.png/ width="350"/>
+
+
+---
+
+### Progetto 7: Componente di supporto
+- **File:** [Disegno_Numero_8.pdf](./Disegno_Numero_8.pdf)
+- **Viste:** 
+
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_8.png/ width="350"/>
+
+
+
+---
+
+
 
 ## Assemblato 1: Supporto per rullo a nastro
 - **File:** [Supporto_per_rullo_a_nastro.pdf](./Supporto_per_rullo_a_nastro.pdf)
