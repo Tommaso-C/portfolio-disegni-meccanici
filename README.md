@@ -16,7 +16,17 @@ Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Invent
 ---
 
 
-### Progetto 2: Accoppiamento scanalato
+### Progetto 2: Coperchio motore elettrico
+- **File:** [Electric_motor_cover.pdf](./Electric_motor_cover.pdf)
+- **Viste:** 
+
+<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_electric_motor_cover.png/ width="350"/>
+
+
+---
+
+
+### Progetto 3: Accoppiamento scanalato
 - **File:** [Disegno_Numero_13.pdf](./Disegno_Numero_13.pdf)
 - **Viste:** 
 
@@ -26,20 +36,11 @@ Portfolio personale di disegni tecnici meccanici realizzati con *Autodesk Invent
 ---
 
 
-### Progetto 3: Flangia di accoppiamento
+### Progetto 4: Flangia di accoppiamento
 - **File:** [Disegno_Numero_12.pdf](./Disegno_Numero_12.pdf)
 - **Viste:** 
 
 <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_12.png/ width="350"/>
-
-
----
-
-### Progetto 4: Staffa supporto per albero
-- **File:** [Disegno_Numero_3.pdf](./Disegno_Numero_3.pdf) 
-- **Viste:** 
-
-<img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main//Render_Disegno_Numero_3.png/ width="350"/>
 
 
 ---
