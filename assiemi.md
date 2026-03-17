@@ -6,9 +6,9 @@
 
 *Render 3D:* <img src=https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/Render_pompa_girante_in_gomma.png/ width="350"/>
 
-*Render funzionamento:* [![Click](./anteprima_funzionamento.png)](./funzionamento.MP4)
+*Render funzionamento:* ![](https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/funzionamento.gif)
 
-*Render smontaggio:* [![Click](./anteprima_smontaggio.png)](./smontaggio.WMV)
+*Render smontaggio:* ![](https://github.com/Tommaso-C/portfolio-disegni-meccanici/blob/main/smontaggio.gif)
 
 ---
 
